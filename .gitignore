@@ -1,3 +1,4 @@
 .env
 mongoapi
 main
+.DS_Store
